@@ -1,5 +1,5 @@
-# *Open Fuego Introduction*
-*Basic code education in rhetoric and composition classroom*<p>&nbsp;</p> 
+# *the Open Fuego Workshop*
+*An introduction to Open Fuego, a basic code education tool designed for the rhetoric and composition classroom*<p>&nbsp;</p> 
 
 
 ## Intro to basic coding and Open Fuego
@@ -17,7 +17,7 @@
 
 [Electrate Fuego ](https://github.com/Open-Fuego/Electrate-Fuego)
 
-:movie_camera:
+:clapper:
 [Electrate Fuego 5 Minute Videao Tutorial](https://outu.be/drINeC4G40A)<p>&nbsp;</p>
 
 
@@ -25,7 +25,7 @@
 
 [Open Fuego Webtext Generator ](https://github.com/Open-Fuego/open-fuego-webtext-generator)
 
-:movie_camera:
+:clapper:
 [Open Fuego 3 Minute Video Tutorial ](https://youtu.be/QzMJtLUncIg)<p>&nbsp;</p>
 
 
