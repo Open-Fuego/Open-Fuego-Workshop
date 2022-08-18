@@ -1,5 +1,7 @@
 # *the Open Fuego Workshop*
-*An introduction to Open Fuego, a basic code education tool designed for the rhetoric and composition classroom*<p>&nbsp;</p> 
+*An introduction to Open Fuego, a basic code education tool designed for the rhetoric and composition classroom*
+
+If you end up using/adapting our tools for the classroom, we'd love to hear from you. Could you please fill out this [user feedback form](https://docs.google.com/forms/d/e/1FAIpQLSenZSrjl9eR6IWGgvG_ddgsJUh6poq4StOxv96pJDjHB_Kr8g/viewform)? <p>&nbsp;</p>
 
 
 ## Intro to basic coding and Open Fuego
@@ -106,9 +108,11 @@ SAMPLE TEACHING CYCLE (3 projects)
 
 * Stasis Theory Project Students will work with code to figure out what they want to write or what they want to make by constructing a question, conjecture, definition, quality, and policy. (see: Stasis Theory Machine, Elevator Pitch Generator)
 
-* Multimodal Communication Document - Students will use the tools in Pitt Fuego to make a mobile-ready multimodal communication document. (See Pitt Fuego or any of our other Presentation Methods.
+* Multimodal Communication Document - Students will use the tools in Pitt Fuego to make a mobile-ready multimodal communication document. (See Pitt Fuego or any of our other Presentation Methods.<p>&nbsp;</p>
 
 
+
+**Stephen Quigley, University of Pittsburgh, [sjq4@pitt.edu](sjq4@pitt.edu)**
 
 
  
